@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="220.559" height="242" style="fill: rgb(214, 0, 66);" x="21.441"/>
+  <ellipse style="fill-rule: nonzero; fill: rgb(214, 0, 66);" cx="21" cy="21" rx="21" ry="21"/>
+  <rect width="242" height="220.909" style="fill: rgb(214, 0, 66);" y="21.091"/>
+  <rect width="220.559" height="242" style="fill: rgb(214, 0, 66);" x="21.441" transform="matrix(0, 1, -1, 0, 500.000007, -0.000004)"/>
+  <ellipse style="fill-rule: nonzero; fill: rgb(214, 0, 66);" cx="21" cy="21" rx="21" ry="21" transform="matrix(0, 1, -1, 0, 500.000007, -0.000004)"/>
+  <rect width="242" height="220.909" style="fill: rgb(214, 0, 66);" y="21.091" transform="matrix(0, 1, -1, 0, 500.000007, -0.000004)"/>
+  <rect width="220.559" height="242" style="fill: rgb(214, 0, 66);" x="21.441" transform="matrix(1, 0, 0, -1, 0, 0)" y="-500"/>
+  <ellipse style="fill-rule: nonzero; fill: rgb(214, 0, 66);" cx="21" cy="-479" rx="21" ry="21" transform="matrix(1, 0, 0, -1, 0, 0)"/>
+  <rect width="242" height="220.909" style="fill: rgb(214, 0, 66);" y="-478.909" transform="matrix(1, 0, 0, -1, 0, 0)"/>
+  <rect width="220.559" height="242" style="fill: rgb(214, 0, 66);" x="-21.441" transform="matrix(0, -1, -1, 0, 500.000007, 457.118007)"/>
+  <ellipse style="fill-rule: nonzero; fill: rgb(214, 0, 66);" cx="21" cy="21" rx="21" ry="21" transform="matrix(0, -1, -1, 0, 500.000007, 500.000007)"/>
+  <rect width="242" height="220.909" style="fill: rgb(214, 0, 66);" y="-21.091" transform="matrix(0, -1, -1, 0, 457.818008, 500.000007)"/>
+</svg>
